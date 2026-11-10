@@ -1,0 +1,9 @@
+Example output after running priority_mutex.c
+
+LOW: Acquired mutex
+MEDIUM: Running unrelated work
+HIGH: Waiting for mutex
+LOW: Releasing mutex
+HIGH: Acquired mutex
+MEDIUM: Finished
+All threads finished.

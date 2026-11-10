@@ -1,0 +1,27 @@
+===== START =====
+
+--- PUSHING ---
+Push 1: Success
+Push 2: Success
+Push 3: Success
+Push 4: Success
+Push 5: Success
+Push 6: Failed
+
+--- POPPING ---
+Popped: 1
+Popped: 2
+Popped: 3
+Popped: 4
+Popped: 5
+Pop from empty buffer: Failed
+
+--- WRAPAROUND ---
+Popped: 1
+Popped: 2
+Popped: 3
+Popped: 4
+Popped: 5
+Popped: 6
+
+===== DONE =====
